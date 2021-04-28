@@ -1,4 +1,4 @@
-#include <algorithm>  // разобрано на семинаре
+#include <algorithm>
 #include <cstddef>
 #include <memory>
 #include <tuple>
